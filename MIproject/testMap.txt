@@ -1,0 +1,67 @@
+ <circle fill-opacity="0.8" fill="#368e45" r="1.0231506" cx="575.2679"
+                        class="shamanism" cy="1068.0334" stroke="#000000"
+                        stroke-opacity="0.8" stroke-width="0.1"/>
+                <circle fill-opacity="0.8" fill="#54911d" r="1.2459747" cx="525.65924"
+                        class="meditation" cy="1060.8125" stroke="#000000"
+                        stroke-opacity="0.8" stroke-width="0.1"/>
+                <circle fill-opacity="0.8" fill="#3a8253" r="1.0578763" cx="584.87976"
+                        class="visions" cy="1001.5638" stroke="#000000"
+                        stroke-opacity="0.8" stroke-width="0.1"/>
+                <circle fill-opacity="0.8" fill="#65841c" r="1.0231506" cx="625.9717"
+                        class="atmosphericambient" cy="1034.1346" stroke="#000000"
+                        stroke-opacity="0.8" stroke-width="0.1"/>
+                <circle fill-opacity="0.8" fill="#3a8253" r="1.112859" cx="592.51483"
+                        class="magic" cy="1017.518" stroke="#000000"
+                        stroke-opacity="0.8" stroke-width="0.1"/>
+                <circle fill-opacity="0.8" fill="#ba4519" r="1.0926023" cx="490.78836"
+                        class="ambientpop" cy="1007.33887" stroke="#000000"
+                        stroke-opacity="0.8" stroke-width="0.1"/>
+                <circle fill-opacity="0.8" fill="#439d1d" r="1.0347258" cx="606.15234"
+                        class="spaceambient" cy="1050.4089" stroke="#000000"
+                        stroke-opacity="0.8" stroke-width="0.1"/>
+                <circle fill-opacity="0.8" fill="#76771b" r="1.127328" cx="640.3337"
+                        class="contemporaryinstrumental" cy="1059.7875" stroke="#000000"
+                        stroke-opacity="0.8" stroke-width="0.1"/>
+                <circle fill-opacity="0.8" fill="#76771b" r="1.031832" cx="665.735"
+                        class="tribalambient" cy="1042.2726" stroke="#000000"
+                        stroke-opacity="0.8" stroke-width="0.1"/>
+                <circle fill-opacity="0.8" fill="#416a70" r="1.0260444" cx="978.26605"
+                        class="spiritualreconnect" cy="1006.8941" stroke="#000000"
+                        stroke-opacity="0.8" stroke-width="0.1"/>
+                <circle fill-opacity="0.8" fill="#54911d" r="1.688729" cx="920.37354"
+                        class="eclectic" cy="923.9868" stroke="#000000"
+                        stroke-opacity="0.8" stroke-width="0.1"/>
+                <circle fill-opacity="0.8" fill="#439d1d" r="1.208355" cx="940.0636"
+                        class="relaxed" cy="972.215" stroke="#000000"
+                        stroke-opacity="0.8" stroke-width="0.1"/>
+<path fill="none" stroke-width="0.30069718"
+d="M 1329.400024,-795.438354 C 1331.107422,-789.772095 1325.169189,-778.711609 1319.502930,-777.004211"
+                      class="girlrock riotgrrrl" stroke-opacity="0.69803923"
+                      stroke="#919191"/>
+                <path fill="none" stroke-width="0.40973723"
+                      d="M -453.418518,-1352.467651 C -440.339813,-1343.563354 -434.078278,-1310.588745 -442.982605,-1297.510132"
+                      class="finnishrock finnish" stroke-opacity="0.69803923"
+                      stroke="#919191"/>
+                <path fill="none" stroke-width="0.650727"
+                      d="M -442.982605,-1297.510132 C -434.294067,-1291.226807 -430.686096,-1268.769165 -436.969360,-1260.080566"
+                      class="finnish finnishmetal" stroke-opacity="0.69803923"
+                      stroke="#919191"/>
+                <path fill="none" stroke-width="0.69890165"
+                      d="M 524.014709,542.048523 C 516.494202,546.279480 498.866943,541.345093 494.635956,533.824585"
+                      class="summer accoustic" stroke-opacity="0.69803923"
+                      stroke="#919191"/>
+                <path fill="none" stroke-width="0.92591494"
+                      d="M 1319.502930,-777.004211 C 1319.817627,-774.469177 1316.487061,-770.194702 1313.952148,-769.880005"
+                      class="riotgrrrl riotgrrl" stroke-opacity="0.69803923"
+                      stroke="#919191"/>
+                <path fill="none" stroke-width="0.3695264"
+                      d="M -453.265350,-1369.260620 C -447.061798,-1364.839478 -444.388153,-1348.902466 -448.809296,-1342.698853"
+                      class="finland suomi" stroke-opacity="0.69803923" stroke="#919191"/>
+                <path fill="none" stroke-width="0.39424467"
+                      d="M -453.265350,-1369.260620 C -518.904663,-1419.023926 -542.718689,-1592.127930 -492.955414,-1657.767212"
+                      class="finland folkmetal" stroke-opacity="0.69803923"
+                      stroke="#919191"/>
+                <path fill="none" stroke-width="0.38092542"
+                      d="M -453.265350,-1369.260620 C -514.033508,-1414.719727 -536.997192,-1574.060547 -491.538086,-1634.828735"
+                      class="finland nordicmetal" stroke-opacity="0.69803923"
+                      stroke="#919191"/>
